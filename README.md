@@ -1,7 +1,6 @@
 # 채愛레시피
 - 채식 입문자들을 위해, 재료 사진 한장을 인공지능 모델로 분석하여 맛있는 채식 레시피를 제공합니다.
 
-[채식주의자들의 레시피 커뮤니티: 채애레시피 링크](https://elice-kdt-ai-3rd-team08.elicecoding.com/)
 <br>
 [팀 노션 페이지](https://www.notion.so/8-Wiki-4958a75d092d4898b1ec5ccb4f16ecd4) - team notion page link
 
@@ -26,20 +25,20 @@
 
 ## 4. 프로젝트 구성도
   - 프로젝트 구조도
-  https://media.discordapp.net/attachments/936622280635740185/951901125815181362/2022-03-12_2.55.03.png
+  https://media.discordapp.net/attachments/936622280635740185/951901125815181362/2022-03-12_2.55.03.png - project blueprint
   - 와이어프레임
-  https://www.figma.com/file/sZVmbrwxm10F5J3Mge2oIq/%EC%9D%B4%EB%AF%B8%EC%A7%80-8%ED%8C%80?node-id=0%3A1
+  https://www.figma.com/file/sZVmbrwxm10F5J3Mge2oIq/%EC%9D%B4%EB%AF%B8%EC%A7%80-8%ED%8C%80?node-id=0%3A1 - wireframe
   - 스토리보드
-  https://media.discordapp.net/attachments/936622280635740185/951902631306092624/2022-03-12_3.00.55.png
+  https://media.discordapp.net/attachments/936622280635740185/951902631306092624/2022-03-12_3.00.55.png -storyboard
   - DB diagram
   https://dbdiagram.io/d/620f92de485e433543d8b447
   - 레시피 데이터
-  https://kadx.co.kr/product/detail/0c5ec800-4fc2-11eb-8b6e-e776ccea3964
+  https://kadx.co.kr/product/detail/0c5ec800-4fc2-11eb-8b6e-e776ccea3964 - recipe data
 
 ## 5. 사용 기술 스택
 - AI : Darknet, OpenCV
-- 백엔드 : Flask, Flask-SQLAlchemy, Docker, Mysql, Nginx
-- 프론트엔드 : TypeScript, ReactQuery, Recoil, Styled-Components, Axios
+- 백엔드 (backend) : Flask, Flask-SQLAlchemy, Docker, Mysql, Nginx
+- 프론트엔드 (frontend) : TypeScript, ReactQuery, Recoil, Styled-Components, Axios
 
 ## 6. 프로젝트 팀원 역할 분담
 | 이름 | 담당 업무 |
@@ -48,7 +47,7 @@
 | 정진묵 | 백엔드 개발 |
 | 임은비 | 백엔드 개발 |
 | 이보연 | 백엔드 개발/데이터 |
-| 이영민 | 인공지능 개발 |
+| 이영민 | 인공지능 개발 | - | Youngmin Lee | AI |
 
 **멤버별 responsibility**
 
@@ -77,9 +76,13 @@
 
 5. 이영민: 인공지능 담당
 - 서비스에 적합한 모델 선정
-- 학습 데이터 만들기 - 데이터 선정 + 크롤링/Annotation
+- 학습 데이터 만들기 - 데이터 선정 + Crawling/Annotation
 - 여러 종류의 AI 모델 학습 및 구현
 
+5. Youngmin Lee : AI
+- Pick a proper model for the service
+- Build a dataset for training
+- Train and implement variouys model
 
 ## 7. 버전
   - 1.0.0
