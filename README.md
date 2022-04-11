@@ -82,7 +82,7 @@
 5. Youngmin Lee : AI
 - Pick a proper model for the service
 - Build a dataset for training
-- Train and implement variouys model
+- Train and implement various models
 
 ## 7. 버전
   - 1.0.0
