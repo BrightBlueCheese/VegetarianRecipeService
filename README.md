@@ -3,7 +3,7 @@
 
 [채식주의자들의 레시피 커뮤니티: 채애레시피 링크](https://elice-kdt-ai-3rd-team08.elicecoding.com/)
 <br>
-[팀 노션 페이지](https://www.notion.so/8-Wiki-4958a75d092d4898b1ec5ccb4f16ecd4)
+[팀 노션 페이지](https://www.notion.so/8-Wiki-4958a75d092d4898b1ec5ccb4f16ecd4) - team notion page link
 
 ## 프로젝트 구성 안내
 
